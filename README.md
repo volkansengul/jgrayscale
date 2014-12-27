@@ -5,19 +5,28 @@
 ## Installation
 
 **Step 1**
+
 Download the latest version at [download page](http://volkansengul.com/lab/jgrayscale) or at the GitHub project page.
+
 Also you need jQuery library ( latest version recommended )
 
 **Step 2**
+
 Unzip the downloaded file
 
 **Step 3**
+
 Include the jgrayscale.js javascript file on the page
+```html
 <script type="text/javascript" src="jgrayscale.js"></script>
+```
 
 **Step 4**
+
 You can now use the jgrayscale like this
+```html
 $(img).jGrayScale();
+```
 
 
 ## License
