@@ -25,7 +25,7 @@ Include the jgrayscale.js javascript file on the page
 
 You can now use the jgrayscale like this
 ```html
-$(img).jGrayScale();
+$('.jgrayscale').jGrayScale();
 ```
 
 
